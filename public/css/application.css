@@ -1,0 +1,23 @@
+.heading-title {
+
+    font-size: 12pt;
+    font-weight: bold ;
+}
+
+.score{
+
+    color: #ff305a;
+    font-size: 10pt;
+    font-weight:bold;
+}
+.padd-down{
+
+    padding-bottom: 20px;
+
+}
+
+.padd-up{
+
+    padding-top: 20px;
+
+}
